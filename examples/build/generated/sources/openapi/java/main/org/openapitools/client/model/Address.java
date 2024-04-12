@@ -35,7 +35,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
   Address.JSON_PROPERTY_NUMBER,
   Address.JSON_PROPERTY_STREET
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-04-12T13:55:56.352199287+02:00[Europe/Paris]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-04-12T14:42:15.430011232+02:00[Europe/Paris]")
 public class Address {
   public static final String JSON_PROPERTY_NUMBER = "number";
   private Long number;

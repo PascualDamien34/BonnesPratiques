@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.mines.address.domain.service.AddressServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-04-12T11:56:10" hostname="damien" time="1.373">
+<testsuite name="org.mines.address.domain.service.AddressServiceTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-04-12T12:42:21" hostname="damien" time="1.529">
   <properties/>
-  <testcase name="shouldNotSaveAddressWhenTownDoesNotExist()" classname="org.mines.address.domain.service.AddressServiceTest" time="1.365"/>
+  <testcase name="shouldNotSaveAddressWhenTownDoesNotExist()" classname="org.mines.address.domain.service.AddressServiceTest" time="1.521"/>
   <testcase name="shouldSaveAnAddress()" classname="org.mines.address.domain.service.AddressServiceTest" time="0.005"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (/home/damien/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.11/f9cb566608fbac6bc7bf54901a7aa11543a989ee/byte-buddy-agent-1.14.11.jar)

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="org.mines.examples.ThreadSafety" tests="1" skipped="1" failures="0" errors="0" timestamp="2024-04-12T11:56:04" hostname="damien" time="0.001">
+<testsuite name="org.mines.examples.ThreadSafety" tests="1" skipped="1" failures="0" errors="0" timestamp="2024-04-12T12:42:17" hostname="damien" time="0.0">
   <properties/>
-  <testcase name="shouldTestThreadUnsafe()" classname="org.mines.examples.ThreadSafety" time="0.001">
+  <testcase name="shouldTestThreadUnsafe()" classname="org.mines.examples.ThreadSafety" time="0.0">
     <skipped/>
   </testcase>
   <system-out><![CDATA[]]></system-out>
