@@ -36,7 +36,7 @@ import com.fasterxml.jackson.annotation.JsonPropertyOrder;
   Town.JSON_PROPERTY_NAME,
   Town.JSON_PROPERTY_POST_CODE
 })
-@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-04-12T14:42:15.430011232+02:00[Europe/Paris]")
+@javax.annotation.Generated(value = "org.openapitools.codegen.languages.JavaClientCodegen", date = "2024-04-15T11:54:28.117022606+02:00[Europe/Paris]")
 public class Town {
   public static final String JSON_PROPERTY_ID = "id";
   private String id;

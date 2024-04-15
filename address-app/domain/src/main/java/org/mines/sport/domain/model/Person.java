@@ -5,6 +5,23 @@ import java.util.List;
 public class Person {
 
     private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public float getWeight() {
+        return weight;
+    }
+
+    public float getTall() {
+        return tall;
+    }
+
+    public List<Sport> getPracticateSports() {
+        return practicateSports;
+    }
+
     private float weight;
     private float tall;
     private List<Sport> practicateSports;
