@@ -4,11 +4,11 @@ import java.util.List;
 
 public class Coach {
     private Person individual;
-    private List<Sports> coachingSport;
+    private List<Sport> coachingSport;
 
     public static final class CoachBuilder {
         private Person individual;
-        private List<Sports> coachingSport;
+        private List<Sport> coachingSport;
 
         private CoachBuilder() {
         }
@@ -22,7 +22,7 @@ public class Coach {
             return this;
         }
 
-        public CoachBuilder withCoachingSport(List<Sports> coachingSport) {
+        public CoachBuilder withCoachingSport(List<Sport> coachingSport) {
             this.coachingSport = coachingSport;
             return this;
         }
